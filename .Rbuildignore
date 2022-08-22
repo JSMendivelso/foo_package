@@ -3,3 +3,4 @@
 ^LICENSE\.md$
 ^R\script.R$
 ^README\.Rmd$
+^\.github$
