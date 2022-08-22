@@ -18,14 +18,14 @@ knitr::opts_chunk$set(
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of foo is to ...
+The goal of foo is to calculate the shannon index
 
 ## Installation
 
 You can install the development version of foo like so:
 
 ``` r
-# FILL THIS IN! HOW CAN PEOPLE INSTALL YOUR DEV PACKAGE?
+# remotes::install_github("JSMendivelso/foo_package")
 ```
 
 ## Example
